@@ -25,6 +25,14 @@ Date: 01/04/2015 to 04/10/2015</p>
 <p>On average, summer is the most busiest season followed by fall, spring and winter respectively.
 </p>
 
+<h3>Steps</h3>
+<ul>
+  <li>Fetch the London Bike Sharing dataset from Kaggle (link provided below).</li>
+  <li>Import the dataset into a python notebook, use Pandas to cleanse the data and save the final version as an excel file.</li>
+  <li>Use Tableau to create visualizations using the excel file as a data source.</li>
+  <li>Finally, publish the visualization and perform analysis.</li>
+</ul>
+
 <h3>Resources:</h3>
 Dataset: https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset  <br>
 Inspiration: https://www.youtube.com/watch?v=nl9eZl1IOKI
