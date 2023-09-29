@@ -1,5 +1,5 @@
 <h1>Bike Rides Analysis </h1>
-The report provides in-depth analysis of a London based bike rides dataset over a span of 2 years. This will help in decision making for a bike rental company to launch and plan their rental programs based on various factors.<br>
+The report provides in-depth analysis of a London based bike rides dataset over a span of 2 years. This will help in decision making for a bike rental company to launch and plan their rental programs based on various factors.
 
 ![Dashboard](https://github.com/Amandeep2230/BikeRidesAnalysis/assets/66684807/9c57c8fe-7b6f-4b76-83ca-254547db6393)
 
@@ -9,7 +9,7 @@ https://public.tableau.com/views/BikeRidesAnalysis_16959503493040/Dashboard?:lan
 
 <h3>The following questions were answered based on this analysis: </h3>
 <p>
-<b>Total number of bike rides in a selected date range</b>
+<b>Total number of bike rides in a selected date range</b> <br>
 Could vary based on selected range. <br>
 Total: 2,025,014 <br>
 Date: 01/04/2015 to 04/10/2015</p>
