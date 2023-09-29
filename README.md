@@ -1,7 +1,7 @@
 <h1>Bike Rides Analysis </h1>
 The report provides in-depth analysis of a London based bike rides dataset over a span of 2 years. This will help in decision making for a bike rental company to launch and plan their rental programs based on various factors.
 
-![FinalDashboard](https://github.com/Amandeep2230/BikeRidesAnalysis/assets/66684807/a7000818-c9c2-485e-aa9f-b2bc76926907)
+![Dashboard](https://github.com/Amandeep2230/BikeRidesAnalysis/assets/66684807/6d2c689e-1d51-43f9-91be-ab4145e8e517)
 
 <h3>Link to the dashboard: </h3>
 https://public.tableau.com/views/BikeRidesAnalysis_16959503493040/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link
